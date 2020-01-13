@@ -1,0 +1,11 @@
+{
+  "name": "transfer-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ccheever/transfer-test.git",
+  "author": "Charlie Cheever <ccheever@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "project-repl": "^1.5.0"
+  }
+}
